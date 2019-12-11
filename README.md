@@ -10,8 +10,7 @@ https://www.azuredevopslabs.com/labs/azuredevops/agile/
 https://www.azuredevopslabs.com/labs/azuredevops/git/
 
 
-## Continuous Integration
-## Continuous Delivery
+## Continuous Integration / Continuous Deployment
 https://www.azuredevopslabs.com/labs/vstsextend/azuredevopsprojectdotnet/
 
 
